@@ -15,6 +15,6 @@ ASP.NET Core 8.0 - Minimal API Example - Expenses API implementation using ASP.N
 1.  Clone project
 2.  Change connection strings in appsettings.json
 3.  Perform update-database command to create a database in SQL Server
-4.  Run swagger - https://localhost:7171/swagger/index.html
+4.  Run project & open swagger UI - https://localhost:7171/swagger/index.html
 
 Happy Coding!
